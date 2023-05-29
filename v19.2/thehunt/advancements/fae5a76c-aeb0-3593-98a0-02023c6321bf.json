@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2023-04-04 08:50:53 +0000",
+      "minecraft:snowy_plains": "2023-04-04 08:51:05 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:grove": "2023-04-03 15:33:01 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

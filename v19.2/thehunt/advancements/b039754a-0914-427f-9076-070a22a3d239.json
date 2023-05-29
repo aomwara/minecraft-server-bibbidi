@@ -1,0 +1,67 @@
+{
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2022-10-28 21:31:21 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2022-10-28 21:38:06 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2022-10-28 21:38:06 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2022-10-28 21:31:21 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-10-28 21:46:51 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-10-28 21:32:30 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-10-28 21:32:30 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2022-10-28 21:38:06 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2022-10-28 19:15:55 +1100",
+      "minecraft:snowy_plains": "2022-10-28 19:16:55 +1100",
+      "minecraft:snowy_taiga": "2022-10-28 19:20:06 +1100",
+      "minecraft:frozen_ocean": "2022-10-28 19:19:45 +1100",
+      "minecraft:snowy_beach": "2022-10-28 19:19:51 +1100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2022-10-28 21:38:06 +1100"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
